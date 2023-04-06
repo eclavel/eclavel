@@ -5,6 +5,8 @@
 - ⚡ Fun fact: I like to work on my car in my spare time, like learning new things, and improving my skills as a developer
 
 Web Developement Projects
+- Admin Dashboard: TO DO
+- Sign-up Form: TO DO
 - Calculator:  [Repo ](https://github.com/eclavel/calculator)  [ Demo](https://eclavel.github.io/calculator/)
 - Etch-a-Sketch:  [Repo ](https://github.com/eclavel/etch-a-sketch)  [ Demo](https://eclavel.github.io/etch-a-sketch/)
 - Rock Paper Scissor:  [Repo ](https://github.com/eclavel/RockPaperScissor)  [ Demo](https://eclavel.github.io/RockPaperScissor/)
