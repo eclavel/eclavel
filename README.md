@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I like to work on my car in my spare time, like learning new things, and improving my skills as a developer
 
 ## Web Developement Projects
-- Admin Dashboard: [Repo](https://github.com/eclavel/admin-dashboard)  :technologist: [Demo](https://eclavel.github.io/admin-dashboard/) IN PROGRESS
+- Admin Dashboard: [Repo](https://github.com/eclavel/admin-dashboard)  :technologist: [Demo](https://eclavel.github.io/admin-dashboard/)
 - Sign-up Form: [Repo](https://github.com/eclavel/sign-up-form) :technologist: [Demo](https://eclavel.github.io/sign-up-form/)
 - Calculator:  [Repo ](https://github.com/eclavel/calculator)  :technologist: [ Demo](https://eclavel.github.io/calculator/)
 - Etch-a-Sketch:  [Repo ](https://github.com/eclavel/etch-a-sketch)  :technologist: [ Demo](https://eclavel.github.io/etch-a-sketch/)
