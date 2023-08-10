@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I like to work on my car in my spare time, like learning new things, and improving my skills as a developer
 
 ## Web Developement Projects
+- Tic-Tac-Toe: In Progress 
 - Library: [Repo](https://github.com/eclavel/Library) :technologist: [Demo](https://eclavel.github.io/Library/)
 - Admin Dashboard: [Repo](https://github.com/eclavel/admin-dashboard)  :technologist: [Demo](https://eclavel.github.io/admin-dashboard/)
 - Sign-up Form: [Repo](https://github.com/eclavel/sign-up-form) :technologist: [Demo](https://eclavel.github.io/sign-up-form/)
